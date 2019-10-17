@@ -4,7 +4,7 @@ Building VyOS using Docker
 ==========================
 
 This will guide you though the process of building a VyOS ISO yourself using
-Docker and works best on a fresh installation of Debain 8 (Jessie).
+Docker and works best on a fresh installation of Debian 8 (Jessie).
 
 .. note:: Starting with VyOS 1.2 the developers have decided to change their
    release model. VyOS is now **free as in speech, but not as in beer**, meaning
